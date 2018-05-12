@@ -1,0 +1,38 @@
+_repo: The-War-and-Unity--13-Being-Lectures-Delivered-At-The-Local-Lectures-Summer-Meeting-Of-The-Un__18905
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Cranage, D. H. S. (David Herbert Somerset)
+    alias: Cranage, David Herbert Somerset
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '8326'
+    url: http://www.gutenberg.org/2009/agents/8326
+description: ''
+gutenberg_issued: '2006-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18905'
+  lccn: '19005443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social change'
+- !lcsh 'Christian union'
+- !lcsh 'Christian sociology'
+- !lcsh 'World War, 1914-1918 -- Religious aspects'
+- !lcc 'D501'
+tableOfContents: 'Unity between Christian denominations: A general view, by the Rev.
+  V. H. Stanton. The church in the furnace, by the Rev. E. Milner-White. The problem
+  of the English Free churches, by the Rev. W. B. Selbie. The Scottish problem, by
+  the Very Rev. J. Cooper -- Unity between classes: I. By the Right Rev. F. T. Woods.
+  II. By the Right Hon. J. R. Clynes -- Unity in the empire, by F. J. Chamberlain
+  -- Unity between nations, by the Rev. J. H. B. Masterman.'
+title: "The War and Unity\r\nBeing Lectures Delivered At The Local Lectures Summer\
+  \ Meeting Of The University Of Cambridge, 1918"
+url: http://www.gutenberg.org/ebooks/18905
