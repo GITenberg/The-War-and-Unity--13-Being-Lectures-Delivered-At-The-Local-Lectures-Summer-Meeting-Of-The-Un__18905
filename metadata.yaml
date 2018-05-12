@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8326'
     url: http://www.gutenberg.org/2009/agents/8326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18905#The-War-and-Unity--13-Being-Lectures-Delivered-At-The-Local-Lectures-Summer-Meeting-Of-The-Un_
 gutenberg_issued: '2006-07-25'
 gutenberg_type: Text
 identifiers:
